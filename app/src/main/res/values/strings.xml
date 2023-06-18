@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">akhir</string>
+    <string name="login">Masuk</string>
+    <string name="signup">Daftar</string>
+    <string name="webclientid">555433815524-8nj8a45ihdolf0corcofdh9mpbj0daso.apps.googleusercontent.com</string>
+    <string name="content_description_image_notes_list">image notes list</string>
+    <string name="tv_see_all">See all</string>
+    <string name="tv_courses">Courses</string>
+    <string name="tv_unggah_sekarang">Unggah sekarang</string>
+    <string name="tv_mulai_publikasikan_catatan_pelajaranmu">Mulai publikasikan catatan pelajaranmu</string>
+    <string name="tv_charlotte">Charlotte!</string>
+    <string name="tv_halo">Halo,</string>
+    <string name="tv_penalaran_umum">Penalaran Umum</string>
+    <string name="tv_penalaran_matematika">Penalaran Matematika</string>
+    <string name="tv_literasi_bahasa_indonesia">Literasi Bahasa Indonesia</string>
+    <string name="tv_literasi_bahasa_inggris">Literasi Bahasa Inggris</string>
+    <string name="tv_pengenalan_aljabar">Pengenalan Aljabar</string>
+    <string name="tv_aljabar_1">Aljabar 1</string>
+    <string name="tv_9">9</string>
+    <string name="tv_catatan">Catatan</string>
+    <string name="tv_completed">Completed</string>
+    <string name="tv_21">21</string>
+    <string name="tv_45">45</string>
+    <string name="tv_12">12</string>
+    <string name="tv_limit_turunan_integral">Limit, Turunan, Integral</string>
+    <string name="tv_trigonometri_dan_vektor">Trigonometri dan Vektor</string>
+    <string name="tv_uncompleted">Uncompleted</string>
+    <string name="tv_kalkulus">Kalkulus</string>
+    <string name="tv_geometri">Geometri</string>
+    <string name="tv_pencacahan">Pencacahan</string>
+    <string name="tv_peluang_dan_penyebaran">Peluang dan Penyebaran</string>
+    <string name="tv_bilangan">Bilangan</string>
+    <string name="tv_operasi_bilangan">Operasi Bilangan</string>
+</resources>
